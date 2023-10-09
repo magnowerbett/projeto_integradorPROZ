@@ -1,3 +1,3 @@
 # projeto_integrador
 
-<img src="img/pagina_inicial_categoria.png">
+<img src="/assets/img/pagina_inicial_categoria.png">
