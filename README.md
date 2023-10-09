@@ -6,4 +6,4 @@
 <img src="/assets/img/estante.png">
 <img src="/assets/img/sobre_nos.png">
 
-Imagens criadas no figma
+# Imagens criadas no figma
