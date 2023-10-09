@@ -5,3 +5,5 @@
 <img src="/assets/img/nossos_autores.png">
 <img src="/assets/img/estante.png">
 <img src="/assets/img/sobre_nos.png">
+
+Imagens criadas no figma
