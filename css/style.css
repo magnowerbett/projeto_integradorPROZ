@@ -1,0 +1,18 @@
+.bg-primary {
+    background-color: #8338EC !important;
+ }
+
+ .nav-link-white {
+    color: white !important;
+}
+}
+
+.book img {
+ height: 200px;
+ width: 200px;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
