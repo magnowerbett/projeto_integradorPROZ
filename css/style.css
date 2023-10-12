@@ -5,7 +5,7 @@
 .nav-link-white {
   color: white !important;
 }
-}
+
 
 .book img {
   height: 200px;
@@ -46,4 +46,32 @@ body {
   padding-bottom: 1px; /* Ajuste conforme necessário */
   /* Ou ajuste a altura diretamente */
   /* height: 50px; */
+}
+
+.form-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+ 
+}
+.form-row div {
+  margin: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  white-space: nowrap; 
+
+}
+th {
+  background-color: #4CAF50;
+  color: white;
+}
+tr:nth-child(even) {
+  background-color: #f2f2f2;
 }
