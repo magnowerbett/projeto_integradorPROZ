@@ -39,6 +39,7 @@ img {
 body {
   background-image: url("/assets/img/backgroung_livros.jpg");
   background-color: #cccccc;
+  margin: 0;
 }
 
 .custom-footer {
@@ -74,4 +75,40 @@ th {
 }
 tr:nth-child(even) {
   background-color: #f2f2f2;
+}
+
+
+
+
+
+
+nav {
+  height: 50px; /* Altura do menu */
+  width: 100vw; /* Garanta que o menu ocupe toda a largura */
+  background-color: #f0f0f0;
+  padding: 0; /* Remova o preenchimento padrão */
+  margin: 0; /* Remova as margens para garantir que o menu ocupe toda a largura */
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #ddd;
 }
